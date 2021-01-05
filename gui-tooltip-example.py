@@ -28,4 +28,3 @@ class Tooltip(object):
         pass
 
 #end define class
- 
